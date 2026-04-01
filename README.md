@@ -7,7 +7,7 @@
 
   <p align="left">
   - Senior Computer Science student @ Univerity of Houston-Downtown<br>
-  - ACM Chatper President<br>
+  - ACM Chapter President<br>
   - Undergraduate Researcher (AI + Sleep Science)<br>
   - CodePath Peer Mentor <br>
   </p>
