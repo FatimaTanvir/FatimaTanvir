@@ -1,5 +1,5 @@
 <h1 align="center">👋<br> Hi! I'm Fatima! </a></h1>
-<h2 align="center"> A UX Engineer currently volunteering at Pangolin Protection Network.</h2> 
+<h2 align="center"> A UX Engineer currently volunteering at <a href="https://pangolino.org" target="_blank">Pangolin Protection Network</a>.</h2> 
 
   <img src="https://newprofit.org/wp-content/uploads/2024/09/CodePath-Logo-Circle.png" width=65px align="right"/>
   <img src="https://media.licdn.com/dms/image/v2/D560BAQEd7iZiRiJXcA/company-logo_200_200/company-logo_200_200/0/1688654467834/rewriting_the_code_logo?e=1782950400&v=beta&t=68r_vZSZPRykaMvshVMc3Fr_-4dMYKEEkba0sYovC30" width=65px align="right"/>
